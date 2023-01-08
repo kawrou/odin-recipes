@@ -4,7 +4,7 @@ h1{
     font-weight:lighter;
 }
 
-a {
+a, li, p {
     font-family: "Garamond", "Georgia",  serif;
     font-size: 20px;
 }
