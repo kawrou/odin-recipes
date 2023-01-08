@@ -8,3 +8,8 @@ a, li, p {
     font-family: "Garamond", "Georgia",  serif;
     font-size: 20px;
 }
+
+.food_photo_main{
+    height: auto;
+    width: 500px;
+}
