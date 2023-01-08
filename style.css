@@ -1,8 +1,13 @@
-h1{
+h1, h2{
     font-family: "Garamond", "Georgia",  serif;
     font-size: 40px;
     font-weight:lighter;
 }
+
+h2 {
+    font-size: 25px;
+}
+
 
 a, li, p {
     font-family: "Garamond", "Georgia",  serif;
